@@ -5013,22 +5013,10 @@
 		(uuid "03bf577b-2876-445d-b1aa-42f2f2e6d100")
 	)
 	(junction
-		(at 297.18 97.79)
+		(at 279.4 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "04d3cffa-043a-44c7-b1bc-4738b23d5c43")
-	)
-	(junction
-		(at 279.4 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0658e3b3-949b-4b35-8046-3996182107c2")
-	)
-	(junction
-		(at 276.86 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0a760936-7111-4951-9dae-c12beae65a09")
+		(uuid "1e0ef0a4-234b-4279-8304-53f781333262")
 	)
 	(junction
 		(at 127 143.51)
@@ -5055,22 +5043,28 @@
 		(uuid "35333133-11a1-483b-8c0a-f67a0b11a24d")
 	)
 	(junction
-		(at 274.32 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39a632f5-6a43-4114-b22d-a996d854ddef")
-	)
-	(junction
 		(at 127 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d230591-7916-4986-aad9-e6d8fa2db505")
 	)
 	(junction
+		(at 289.56 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49e5abe3-36a6-4707-a6be-6a4c7fc35e01")
+	)
+	(junction
 		(at 109.22 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b94e489-b8b5-48cc-9243-1c863121b666")
+	)
+	(junction
+		(at 281.94 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "639e4303-0156-4c81-bbb4-b99a7760aa34")
 	)
 	(junction
 		(at 146.05 163.83)
@@ -5085,12 +5079,6 @@
 		(uuid "6756d43b-c972-4999-b26a-cb7d8098e837")
 	)
 	(junction
-		(at 294.64 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6804cb03-6cb7-456a-baea-a7893c7a9871")
-	)
-	(junction
 		(at 109.22 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5101,12 +5089,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6cce486c-7d3d-4bf3-a08d-b48a105f21d0")
-	)
-	(junction
-		(at 292.1 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "75673519-1e84-4b1b-9fa9-21f1b43eab27")
 	)
 	(junction
 		(at 160.02 171.45)
@@ -5181,6 +5163,12 @@
 		(uuid "a5f9c34e-6712-4c85-b4ae-a7f33e5b43b3")
 	)
 	(junction
+		(at 294.64 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9f37001-29b6-4453-8037-d5f8a5f6d6a9")
+	)
+	(junction
 		(at 154.94 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5191,6 +5179,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b3751a92-da4e-402f-91bf-c6f7a898bee9")
+	)
+	(junction
+		(at 292.1 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8fd3b1b-2c76-4b96-a678-61b02b3f85c7")
 	)
 	(junction
 		(at 119.38 163.83)
@@ -5209,6 +5203,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbdf0f37-a9a3-4512-a5fa-48540db049fe")
+	)
+	(junction
+		(at 276.86 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddc913e7-1e14-45f8-9565-5d41c6e16e60")
 	)
 	(junction
 		(at 200.66 77.47)
@@ -5318,16 +5318,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 64.77) (xy 276.86 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d0fac37-2f49-4c47-aa2e-cd24fb30a9c2")
-	)
-	(wire
-		(pts
 			(xy 251.46 95.25) (xy 266.7 95.25)
 		)
 		(stroke
@@ -5358,17 +5348,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 64.77) (xy 274.32 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c5ec0a8-b280-4f02-949f-c6844031b065")
-	)
-	(wire
-		(pts
-			(xy 289.56 97.79) (xy 292.1 97.79)
+			(xy 289.56 97.79) (xy 312.42 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5405,16 +5385,6 @@
 			(type default)
 		)
 		(uuid "202d13bd-e817-4af6-8057-3f03933d64a3")
-	)
-	(wire
-		(pts
-			(xy 279.4 64.77) (xy 279.4 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2120cc49-ebf2-44c0-bf47-fada93493614")
 	)
 	(wire
 		(pts
@@ -5468,16 +5438,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 64.77) (xy 276.86 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29c4177a-48c5-4fd9-9c73-52300adf960a")
-	)
-	(wire
-		(pts
 			(xy 142.24 92.71) (xy 142.24 125.73)
 		)
 		(stroke
@@ -5505,6 +5465,16 @@
 			(type default)
 		)
 		(uuid "2d8f3a38-1889-44b5-ae75-6febf24f8590")
+	)
+	(wire
+		(pts
+			(xy 274.32 69.85) (xy 276.86 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "308daca5-1183-4a30-8c47-2151b39b36d4")
 	)
 	(wire
 		(pts
@@ -5565,6 +5535,26 @@
 			(type default)
 		)
 		(uuid "33e5a885-3c25-47b1-bbf4-eba05569c96e")
+	)
+	(wire
+		(pts
+			(xy 276.86 69.85) (xy 279.4 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33f08383-2412-42a7-bbaa-8132213f81cc")
+	)
+	(wire
+		(pts
+			(xy 294.64 95.25) (xy 297.18 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34f204b8-c8e8-48c4-a9ec-c6d681b5dda8")
 	)
 	(wire
 		(pts
@@ -5868,16 +5858,6 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 97.79) (xy 294.64 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6193ced7-6aa0-48e0-99a4-466362193d06")
-	)
-	(wire
-		(pts
 			(xy 210.82 171.45) (xy 210.82 173.99)
 		)
 		(stroke
@@ -6048,16 +6028,6 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 97.79) (xy 312.42 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85abf5d0-e23f-47dc-9fe6-3dfe953a5a12")
-	)
-	(wire
-		(pts
 			(xy 233.68 80.01) (xy 236.22 80.01)
 		)
 		(stroke
@@ -6148,16 +6118,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 97.79) (xy 297.18 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "925e265c-babf-47fe-9ea0-04c80da304b1")
-	)
-	(wire
-		(pts
 			(xy 119.38 168.91) (xy 119.38 163.83)
 		)
 		(stroke
@@ -6218,6 +6178,16 @@
 	)
 	(wire
 		(pts
+			(xy 289.56 95.25) (xy 289.56 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9705d754-a125-4fab-bdb5-9ffb0a83b178")
+	)
+	(wire
+		(pts
 			(xy 111.76 87.63) (xy 147.32 87.63)
 		)
 		(stroke
@@ -6228,7 +6198,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 64.77) (xy 281.94 64.77)
+			(xy 266.7 64.77) (xy 281.94 64.77)
 		)
 		(stroke
 			(width 0)
@@ -6285,6 +6255,16 @@
 			(type default)
 		)
 		(uuid "a0694d70-6d6e-429a-ab0f-d86cc8a63e46")
+	)
+	(wire
+		(pts
+			(xy 292.1 95.25) (xy 294.64 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a214af06-3ab0-4ff5-bd25-e1ff75e4bb26")
 	)
 	(wire
 		(pts
@@ -6465,6 +6445,16 @@
 			(type default)
 		)
 		(uuid "bd36baf5-653e-4496-a9fc-df10f54861ef")
+	)
+	(wire
+		(pts
+			(xy 279.4 69.85) (xy 281.94 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd3919cc-81e8-4f43-9ea9-31fcc39eccd8")
 	)
 	(wire
 		(pts
@@ -6698,16 +6688,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 64.77) (xy 279.4 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "debe6cc6-2cfb-472f-832f-f6a5ca30c7e4")
-	)
-	(wire
-		(pts
 			(xy 266.7 97.79) (xy 289.56 97.79)
 		)
 		(stroke
@@ -6745,6 +6725,16 @@
 			(type default)
 		)
 		(uuid "e568ce94-95e1-4c6e-ab7d-92562c40e88f")
+	)
+	(wire
+		(pts
+			(xy 289.56 95.25) (xy 292.1 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e67277a2-1d85-409e-b4a9-8f22db5518bd")
 	)
 	(wire
 		(pts
@@ -6865,16 +6855,6 @@
 			(type default)
 		)
 		(uuid "f9123b1b-835c-4f16-a323-c68f8d301f0c")
-	)
-	(wire
-		(pts
-			(xy 266.7 64.77) (xy 274.32 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa0c03cf-c86f-4184-8954-62d2e5fab1ae")
 	)
 	(wire
 		(pts
@@ -9039,7 +9019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:CAP_9-J_8-E-X_AVX"
+		(property "Footprint" "J_footprint:G-188_MUR"
 			(at 106.68 201.93 0)
 			(effects
 				(font
@@ -10378,7 +10358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:CAP_9-J_8-E-X_AVX"
+		(property "Footprint" "J_footprint:G-188_MUR"
 			(at 210.82 181.61 0)
 			(effects
 				(font
@@ -11414,7 +11394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:CAP_9-J_8-E-X_AVX"
+		(property "Footprint" "J_footprint:G-188_MUR"
 			(at 251.46 77.47 0)
 			(effects
 				(font
@@ -12015,7 +11995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:CAP_9-J_8-E-X_AVX"
+		(property "Footprint" "J_footprint:G-188_MUR"
 			(at 116.84 201.93 0)
 			(effects
 				(font
@@ -13769,7 +13749,7 @@
 	)
 	(symbol
 		(lib_id "Jadhav-altium-import:root_1_Header_Male_1R_04P")
-		(at 287.02 92.71 0)
+		(at 287.02 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13777,7 +13757,7 @@
 		(dnp no)
 		(uuid "f22f0b29-ab14-4946-880e-142f71d24f2a")
 		(property "Reference" "g1"
-			(at 287.02 87.63 0)
+			(at 286.766 84.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13786,16 +13766,17 @@
 			)
 		)
 		(property "Value" "61000418221"
-			(at 286.766 100.838 0)
+			(at 294.132 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "J_footprint:SAMTEC_TS-104-T-AA"
-			(at 287.02 92.71 0)
+			(at 287.02 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13804,7 +13785,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 287.02 92.71 0)
+			(at 287.02 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13813,7 +13794,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 287.02 92.71 0)
+			(at 287.02 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13822,7 +13803,7 @@
 			)
 		)
 		(property "COLOR" "Black"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13832,7 +13813,7 @@
 			)
 		)
 		(property "MOUNT" "Surface Mount"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13842,7 +13823,7 @@
 			)
 		)
 		(property "NEXARPARTID" "32855425"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13852,7 +13833,7 @@
 			)
 		)
 		(property "HEIGHT" "9.7mm"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13862,7 +13843,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" "250V"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13872,7 +13853,7 @@
 			)
 		)
 		(property "NUMBER OF ROWS" "1"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13882,7 +13863,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "105°C"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13892,7 +13873,7 @@
 			)
 		)
 		(property "GENDER" "Male"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13902,7 +13883,7 @@
 			)
 		)
 		(property "NUMBER OF CONTACTS" "4"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13912,7 +13893,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" "Male Pin"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13922,7 +13903,7 @@
 			)
 		)
 		(property "ROHS" "Compliant"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13932,7 +13913,7 @@
 			)
 		)
 		(property "TERMINATION" "Solder"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13942,7 +13923,7 @@
 			)
 		)
 		(property "CONTACT MATING LENGTH" "5.9944mm"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13952,7 +13933,7 @@
 			)
 		)
 		(property "CURRENT RATING" "3A"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13962,7 +13943,7 @@
 			)
 		)
 		(property "CONTACT RESISTANCE" "20mΩ"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13972,7 +13953,7 @@
 			)
 		)
 		(property "REACH SVHC" "Unknown"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13982,7 +13963,7 @@
 			)
 		)
 		(property "CONTACT PLATING" "Gold"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13992,7 +13973,7 @@
 			)
 		)
 		(property "LEAD PITCH" "2.54mm"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14002,7 +13983,7 @@
 			)
 		)
 		(property "NUMBER OF PINS" "4"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14012,7 +13993,7 @@
 			)
 		)
 		(property "ORIENTATION" "Vertical"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14022,7 +14003,7 @@
 			)
 		)
 		(property "PITCH" "2.54mm"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14032,7 +14013,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-40°C"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14042,7 +14023,7 @@
 			)
 		)
 		(property "NUMBER OF POSITIONS" "4"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14052,7 +14033,7 @@
 			)
 		)
 		(property "CONTACT MATERIAL" "Copper"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14062,7 +14043,7 @@
 			)
 		)
 		(property "OPERATING SUPPLY VOLTAGE" "250V"
-			(at 286.766 87.376 0)
+			(at 286.766 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,7 +1,7 @@
 (export (version "E")
   (design
-    (source "F:\\Ki_cad_projects\\Jadhav\\Jadhav\\Jadhav.kicad_sch")
-    (date "2024-07-26T13:57:47+0530")
+    (source "F:\\Ki_cad_projects\\Atmega Dev Board\\Atmega32_DEV_BOARD\\Jadhav\\Jadhav.kicad_sch")
+    (date "2024-07-26T18:24:46+0530")
     (tool "Eeschema 8.0.4")
     (textvar (name "SHEETTOTAL") "1")
     (sheet (number "1") (name "/") (tstamps "/")
@@ -23,7 +23,7 @@
   (components
     (comp (ref "C1")
       (value "Capacitor 100nF +/-20% 25V 0402")
-      (footprint "J_footprint:CAP_9-J_8-E-X_AVX")
+      (footprint "J_footprint:G-188_MUR")
       (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm")
       (fields
         (field (name "RIPPLE CURRENT (AC)"))
@@ -38,7 +38,7 @@
         (field (name "MOUNTING TECHNOLOGY") "SMT")
         (field (name "CASE/PACKAGE") "0402")
         (field (name "CAPACITOR TYPE"))
-        (field (name "Footprint") "J_footprint:CAP_9-J_8-E-X_AVX")
+        (field (name "Footprint") "J_footprint:G-188_MUR")
         (field (name "Datasheet"))
         (field (name "Description") "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
       (libsource (lib "Jadhav-altium-import") (part "root_3_CAP-NP-2") (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
@@ -61,7 +61,7 @@
       (tstamps "4403a52e-8bc7-4339-ae8a-972f709b01e2"))
     (comp (ref "C2")
       (value "Capacitor 100nF +/-20% 25V 0402")
-      (footprint "J_footprint:CAP_9-J_8-E-X_AVX")
+      (footprint "J_footprint:G-188_MUR")
       (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm")
       (fields
         (field (name "RIPPLE CURRENT (AC)"))
@@ -76,7 +76,7 @@
         (field (name "MOUNTING TECHNOLOGY") "SMT")
         (field (name "CASE/PACKAGE") "0402")
         (field (name "CAPACITOR TYPE"))
-        (field (name "Footprint") "J_footprint:CAP_9-J_8-E-X_AVX")
+        (field (name "Footprint") "J_footprint:G-188_MUR")
         (field (name "Datasheet"))
         (field (name "Description") "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
       (libsource (lib "Jadhav-altium-import") (part "root_3_CAP-NP-2") (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
@@ -99,7 +99,7 @@
       (tstamps "ad323bd0-6604-4489-9d91-2372f7171dea"))
     (comp (ref "C3")
       (value "Capacitor 100nF +/-20% 25V 0402")
-      (footprint "J_footprint:CAP_9-J_8-E-X_AVX")
+      (footprint "J_footprint:G-188_MUR")
       (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm")
       (fields
         (field (name "RIPPLE CURRENT (AC)"))
@@ -114,7 +114,7 @@
         (field (name "MOUNTING TECHNOLOGY") "SMT")
         (field (name "CASE/PACKAGE") "0402")
         (field (name "CAPACITOR TYPE"))
-        (field (name "Footprint") "J_footprint:CAP_9-J_8-E-X_AVX")
+        (field (name "Footprint") "J_footprint:G-188_MUR")
         (field (name "Datasheet"))
         (field (name "Description") "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
       (libsource (lib "Jadhav-altium-import") (part "root_1_CAP-NP-2") (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
@@ -137,7 +137,7 @@
       (tstamps "7538435f-5fac-4d77-8b81-e24d9ea04977"))
     (comp (ref "C5")
       (value "Capacitor 100nF +/-20% 25V 0402")
-      (footprint "J_footprint:CAP_9-J_8-E-X_AVX")
+      (footprint "J_footprint:G-188_MUR")
       (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm")
       (fields
         (field (name "RIPPLE CURRENT (AC)"))
@@ -152,7 +152,7 @@
         (field (name "MOUNTING TECHNOLOGY") "SMT")
         (field (name "CASE/PACKAGE") "0402")
         (field (name "CAPACITOR TYPE"))
-        (field (name "Footprint") "J_footprint:CAP_9-J_8-E-X_AVX")
+        (field (name "Footprint") "J_footprint:G-188_MUR")
         (field (name "Datasheet"))
         (field (name "Description") "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
       (libsource (lib "Jadhav-altium-import") (part "root_3_CAP-NP-2") (description "Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm"))
@@ -1515,7 +1515,7 @@
         (pin (num "2") (name "2") (type "passive")))))
   (libraries
     (library (logical "Jadhav-altium-import")
-      (uri "F:\\Ki_cad_projects\\Jadhav\\Jadhav/Jadhav-altium-import.kicad_sym"))
+      (uri "F:\\Ki_cad_projects\\Atmega Dev Board\\Atmega32_DEV_BOARD\\Jadhav/Jadhav-altium-import.kicad_sym"))
     (library (logical "Switch")
       (uri "F:\\KiCad_files\\share\\kicad\\symbols\\/Switch.kicad_sym")))
   (nets
