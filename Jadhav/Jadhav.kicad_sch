@@ -7308,7 +7308,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:14_CONN_SBH11-PBPC-D07-ST-BK_SUL"
+		(property "Footprint" "J_footprints:CON14_1X14_TU_HTS_SAI"
 			(at 236.22 173.99 0)
 			(effects
 				(font
@@ -7623,7 +7623,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:SOT223-3_ONS"
+		(property "Footprint" "J_footprints:SOT223-3_ONS"
 			(at 226.06 64.77 0)
 			(effects
 				(font
@@ -8164,7 +8164,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:CONN8_61300811121_WRE"
+		(property "Footprint" "J_footprints:CONN8_61300811121_WRE"
 			(at 104.14 153.67 0)
 			(effects
 				(font
@@ -8576,7 +8576,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:RES3_PV36W103C01B00_BRN"
+		(property "Footprint" "J_footprints:RES3_PV36W103C01B00_BRN"
 			(at 223.52 199.39 0)
 			(effects
 				(font
@@ -9019,7 +9019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:G-188_MUR"
+		(property "Footprint" "J_footprints:G-188_MUR"
 			(at 106.68 201.93 0)
 			(effects
 				(font
@@ -9273,7 +9273,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:CONN8_61300811121_WRE"
+		(property "Footprint" "J_footprints:CONN8_61300811121_WRE"
 			(at 246.38 130.81 0)
 			(effects
 				(font
@@ -9620,7 +9620,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:ATS08A-E_CTS"
+		(property "Footprint" "J_footprints:ATS08A-E_CTS"
 			(at 114.3 199.39 0)
 			(effects
 				(font
@@ -9944,7 +9944,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:CONN8_61300811121_WRE"
+		(property "Footprint" "J_footprints:CONN8_61300811121_WRE"
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -10358,7 +10358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:G-188_MUR"
+		(property "Footprint" "J_footprints:G-188_MUR"
 			(at 210.82 181.61 0)
 			(effects
 				(font
@@ -10861,7 +10861,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:62910416121"
+		(property "Footprint" "J_footprints:62910416121"
 			(at 185.42 87.63 0)
 			(effects
 				(font
@@ -11394,7 +11394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:G-188_MUR"
+		(property "Footprint" "J_footprints:G-188_MUR"
 			(at 251.46 77.47 0)
 			(effects
 				(font
@@ -11582,7 +11582,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:CONN8_61300811121_WRE"
+		(property "Footprint" "J_footprints:CONN8_61300811121_WRE"
 			(at 302.26 107.95 0)
 			(effects
 				(font
@@ -11995,7 +11995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:G-188_MUR"
+		(property "Footprint" "J_footprints:G-188_MUR"
 			(at 116.84 201.93 0)
 			(effects
 				(font
@@ -12183,7 +12183,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:CONN_SBH11-PBPC-D05-ST-BK_SUL"
+		(property "Footprint" "J_footprints:CONN_SBH11-PBPC-D05-ST-BK_SUL"
 			(at 72.39 154.94 0)
 			(effects
 				(font
@@ -13319,7 +13319,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprint:SAMTEC_TS-104-T-AA"
+		(property "Footprint" "J_footprints:SAMTEC_TS-104-T-AA"
 			(at 284.48 74.93 0)
 			(effects
 				(font
@@ -13775,7 +13775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprint:SAMTEC_TS-104-T-AA"
+		(property "Footprint" "J_footprints:SAMTEC_TS-104-T-AA"
 			(at 287.02 90.17 0)
 			(effects
 				(font
