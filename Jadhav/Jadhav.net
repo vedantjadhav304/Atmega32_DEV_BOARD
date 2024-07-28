@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "F:\\Ki_cad_projects\\Atmega Dev Board\\Atmega32_DEV_BOARD\\Jadhav\\Jadhav.kicad_sch")
-    (date "2024-07-26T19:02:26+0530")
+    (date "2024-07-28T12:29:16+0530")
     (tool "Eeschema 8.0.4")
     (textvar (name "SHEETTOTAL") "1")
     (sheet (number "1") (name "/") (tstamps "/")
