@@ -945,7 +945,7 @@
 		(at 151.6761 48.768)
 		(tags "GRM188R60J226MEA0J ")
 		(property "Reference" "C3"
-			(at 0 0 0)
+			(at -0.0381 -1.524 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "4e8d5011-a567-49e6-82b5-f9b8e8cac93a")
@@ -1402,7 +1402,7 @@
 		(at 191.008 41.402 180)
 		(tags "61300811121 ")
 		(property "Reference" "PA1"
-			(at 18.034 2.032 0)
+			(at 18.288 2.286 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c4cdf218-07e6-4c01-8413-06e89e4cb1e3")
@@ -4501,7 +4501,7 @@
 		(at 150.114 53.086 90)
 		(tags "GRM188R60J226MEA0J ")
 		(property "Reference" "C1"
-			(at 0 0 90)
+			(at 2.032 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "2c2f35fa-8724-467a-ab2c-532b91fc1ab0")
@@ -5296,7 +5296,7 @@
 		(at 152.908 53.1241 90)
 		(tags "GRM188R60J226MEA0J ")
 		(property "Reference" "C2"
-			(at 0 0 90)
+			(at 2.0701 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "8edcb739-7d9d-4059-946c-2d8a0d0889fd")
