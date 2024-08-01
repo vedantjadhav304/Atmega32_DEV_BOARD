@@ -13315,7 +13315,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "J_footprints:SAMTEC_TS-104-T-AA"
+		(property "Footprint" "J_footprints:CON4_1X4_TU_HTS_SAI"
 			(at 284.48 74.93 0)
 			(effects
 				(font
@@ -13706,7 +13706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "J_footprints:SAMTEC_TS-104-T-AA"
+		(property "Footprint" "J_footprints:CON4_1X4_TU_HTS_SAI"
 			(at 287.02 90.17 0)
 			(effects
 				(font
