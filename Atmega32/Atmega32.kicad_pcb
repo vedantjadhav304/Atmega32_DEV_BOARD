@@ -106,16 +106,16 @@
 			(psnegative no)
 			(psa4output no)
 			(plotreference yes)
-			(plotvalue yes)
+			(plotvalue no)
 			(plotfptext yes)
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Gerber/")
 		)
 	)
 	(net 0 "")
@@ -2793,7 +2793,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D1"
-			(at 1.27 -2.96 90)
+			(at 1.27 -2.96 180)
 			(layer "F.SilkS")
 			(uuid "790f6dd2-651a-4d29-b40d-a4fd14aaa857")
 			(effects
@@ -4105,7 +4105,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R1"
-			(at -1.778 0.508 180)
+			(at 3.302 2.286 180)
 			(layer "F.SilkS")
 			(uuid "63985f44-0143-456b-ab31-5a957a412373")
 			(effects
@@ -8637,7 +8637,7 @@
 		(at 150.622 41.402)
 		(tags "61300811121 ")
 		(property "Reference" "PB1"
-			(at -0.254 -2.286 0)
+			(at 7.874 -2.286 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "fc39c7e6-b91c-4366-8cec-c19aa369fab8")
@@ -9278,7 +9278,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R5"
-			(at -2.032 0.508 180)
+			(at -1.778 0 180)
 			(layer "F.SilkS")
 			(uuid "45f5992a-dbbd-4992-9ad7-8926f133c271")
 			(effects
@@ -10348,7 +10348,7 @@
 		(at 139.7 72.3519)
 		(tags "GRM188R60J226MEA0J ")
 		(property "Reference" "C5"
-			(at 0 0 0)
+			(at 0 -1.2319 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e42fc91b-0304-46f9-ba53-298a7fb574ab")
@@ -10805,7 +10805,7 @@
 		(at 158.75 52.832 90)
 		(tags "ATS08A-E ")
 		(property "Reference" "Y1"
-			(at 7.112 -3.556 0)
+			(at 8.636 -1.27 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "31b55546-e16f-488c-a160-a387babad2dc")
