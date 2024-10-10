@@ -59,6 +59,6 @@ We welcome contributions from the community! Whether you're fixing bugs, enhanci
 For any questions, suggestions, or collaboration inquiries, please feel free to reach out to us:
 
 - Vedant Jadhav: [LinkedIn](https://www.linkedin.com/in/vedant-jadhav-912a8b260/)  
-- [Your Friend’s Name]: [LinkedIn](https://www.linkedin.com/in/abhishek-patil-513774279/]
+- Abishek Patil : [LinkedIn](https://www.linkedin.com/in/abhishek-patil-513774279/)
 
 We’d love to hear from you!
